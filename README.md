@@ -1,5 +1,7 @@
 # 42-餐厅管理系统（小程序）
 
+[文档地址](http://wechat.zjrcsy.cn/)
+
 ##### 技术栈: springBoot+Vue+Mysql+Uni-app
 
 ##### 功能点: 用户端  管理员端
@@ -122,4 +124,4 @@
 
 
 
-绿泡泡MaKaBaca0
+[文档地址](http://wechat.zjrcsy.cn/)
